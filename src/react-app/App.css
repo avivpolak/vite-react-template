@@ -43,3 +43,34 @@
 .read-the-docs {
 	color: #888;
 }
+
+/* Musician site styles */
+.site-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 1rem;
+	padding: 1rem 0;
+}
+.site-nav a {
+	margin-left: 1rem;
+	color: #fff;
+}
+.section {
+	margin: 2rem 0;
+	text-align: left;
+}
+.media-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+	gap: 1rem;
+}
+.media-card { background: #111; padding: 0.5rem; border-radius: 8px; }
+.media-title { margin-top: 0.5rem; color: #ddd; font-size: 0.95rem }
+.shows-list { list-style: none; padding: 0; margin: 0; }
+.show-item { padding: 0.75rem 0; border-bottom: 1px solid #333; }
+.show-date { font-weight: 600; }
+.artist-photo { width: 180px; height: 180px; object-fit: cover; border-radius: 8px; margin-right: 1rem; }
+.about { display: flex; gap: 1rem; align-items: center; }
+.links a { margin-right: 1rem; }
+.site-footer { margin-top: 3rem; color: #999; }

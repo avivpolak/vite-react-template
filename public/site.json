@@ -1,0 +1,32 @@
+{
+  "artist": {
+    "name": "Artist Name",
+    "bio": "Short bio about the artist. Replace this text with the actual about content.",
+    "photo": "/react-app/assets/artist.jpg"
+  },
+  "youtube": [
+    {
+      "id": "dQw4w9WgXcQ",
+      "title": "Sample YouTube Song"
+    }
+  ],
+  "spotify": [
+    {
+      "embed": "https://open.spotify.com/embed/track/7GhIk7Il098yCjg4BQjzvb",
+      "title": "Sample Spotify Track"
+    }
+  ],
+  "shows": [
+    {
+      "date": "2026-03-01",
+      "venue": "Awesome Club",
+      "city": "Tel Aviv",
+      "ticket_url": "https://example.com/tickets"
+    }
+  ],
+  "links": {
+    "instagram": "https://instagram.com/yourhandle",
+    "facebook": "https://facebook.com/yourpage",
+    "email": "mailto:artist@example.com"
+  }
+}
