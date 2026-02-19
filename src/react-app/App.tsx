@@ -1,6 +1,6 @@
 // src/App.tsx
 
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import "./App.css";
 
 type SiteData = any;
