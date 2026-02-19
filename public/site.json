@@ -1,13 +1,13 @@
 {
   "artist": {
-    "name": "Artist Name",
-    "bio": "Short bio about the artist. Replace this text with the actual about content.",
+    "name": "Aviv Polak",
+    "bio": "A musician, producer and composer who blends the of the kamancheh (an ancient bowed instrument) and the piano together with electronic elements. Aviv’s sound is sincere, warm, and touching. His inspiration draws from maqam music and the groove of the Middle East.",
     "photo": "/react-app/assets/artist.jpg"
   },
   "youtube": [
     {
-      "id": "dQw4w9WgXcQ",
-      "title": "Sample YouTube Song"
+      "id": "Y1115Rw4LDs",
+      "title": "Dancing in the Desert"
     }
   ],
   "spotify": [
@@ -25,8 +25,8 @@
     }
   ],
   "links": {
-    "instagram": "https://instagram.com/yourhandle",
+    "instagram": "https://instagram.com/aviv_polak_",
     "facebook": "https://facebook.com/yourpage",
-    "email": "mailto:artist@example.com"
+    "email": "mailto:avivp0437@gmail.com"
   }
 }
